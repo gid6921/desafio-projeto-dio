@@ -1,2 +1,2 @@
 # Desafio de Projeto Git/GitHub
-git/github
+## Anotações sobre o Git e Git Hub
